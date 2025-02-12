@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "689819911098",
+    "firebase_url": "https://kahood-server-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "kahood-server",
+    "storage_bucket": "kahood-server.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689819911098:android:1979c238d36b32301f9383",
+        "android_client_info": {
+          "package_name": "com.example.kahootmaster"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9sovQPqXruX8rGWRB-D0zdyfYk62AusA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
